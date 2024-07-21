@@ -1,13 +1,13 @@
 export default [
   {
     title: "e-comm-retailer",
-    imgUrl: "",
+    imgUrl: "src/assets/e-comm-retailer-image.png",
     stack: ["Express", "Node", "Javascript", "Postgres", "Sequelize"],
     link: "https://github.com/joegruff16/e-comm-retailer",
   },
   {
     title: "tutorHub",
-    imgUrl: "",
+    imgUrl: "src/assets/tutorHub-image.gif",
     stack: [
       "HTML",
       "CSS",
@@ -22,7 +22,7 @@ export default [
   },
   {
     title: "Journeys-End",
-    imgUrl: "",
+    imgUrl: "src/assets/journeys-end-image.png",
     stack: ["HTML", "CSS", "Javascript", "Bootstrap"],
     link: "https://github.com/joegruff16/Journeys-End",
   },
